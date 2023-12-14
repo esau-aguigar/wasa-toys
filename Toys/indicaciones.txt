@@ -1,0 +1,23 @@
+﻿indicaciones:
+
+pasar carpeta "toys" a la direccion C:\xampp\htdocs
+
+abrir archivo:
+EquipoSQL.sql copear todo lo del archivo
+y pegarlo en la consola del MYSQL
+
+procedimientos.sql copear todo lo del archivo
+y pegarlo en la consola del MYSQL
+
+abrir con sublimeText el archivo conexion.php
+y en donde dice picapiedra poner su contraseña
+de la consola del MYSQL
+
+activar en xamp:
+apache y mysql
+
+abrir en el navegador:
+
+localhost/toys
+
+asi ya deberia dejarles utilizar
